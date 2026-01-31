@@ -258,9 +258,3 @@ Daca folositi masina virtuala linux, restartati masina dupa ce faceti configurat
 # Bibliografie:
 [cuprins](#cuprins)
 - [Github Sysinfo](https://github.com/crchende/sysinfo/tree/simplu_main)
-
-# SMARANDACHE MIHNEA
-[cuprins](#cuprins)
-
-# VEGA TUDOR
-[cuprins](#cuprins)
