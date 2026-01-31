@@ -258,3 +258,4 @@ Daca folositi masina virtuala linux, restartati masina dupa ce faceti configurat
 # Bibliografie:
 [cuprins](#cuprins)
 - [Github Sysinfo](https://github.com/crchende/sysinfo/tree/simplu_main)
+- [Github curs_vcgj_25_scriitori](https://github.com/daeryn19/curs_vcgj_25_scriitori/tree/main_grancea_dana)
