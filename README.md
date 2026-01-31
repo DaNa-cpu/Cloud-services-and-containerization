@@ -1,4 +1,3 @@
-# GRANCEA DANA
 [cuprins](#cuprins)
 
 # curs_vcgj_25_scriitori
