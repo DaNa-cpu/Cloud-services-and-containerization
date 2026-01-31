@@ -1,7 +1,3 @@
-[cuprins](#cuprins)
-
-# curs_vcgj_25_scriitori
-
 `scriitori`
 ===================================
 # Cuprins
